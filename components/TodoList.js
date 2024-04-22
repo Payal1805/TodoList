@@ -48,10 +48,10 @@ export default function Home() {
 
   return (
     <>
-      <Head>
+      {/* <Head>
         <title>Todo List</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
+      </Head> */}
 
       <div className="min-h-screen bg-gray-100 flex justify-center items-center">
         <div className="container mx-auto px-4">
